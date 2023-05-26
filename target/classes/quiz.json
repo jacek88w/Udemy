@@ -1,0 +1,26 @@
+[
+  {
+    "pytanie": "W którym roku pojawiła się Java?",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "prawidlowaOdpowiedz": "c"
+  },
+  {
+    "pytanie": "Kto stworzył jave??",
+    "a": "Bill Gates",
+    "b": "Steve Jobs",
+    "c": "James Gosling",
+    "d": "Dennis Ritchie",
+    "prawidlowaOdpowiedz": "c"
+  },
+  {
+    "pytanie": "W którym roku są piastonalia?",
+    "a": 1986,
+    "b": 2023,
+    "c": 2013,
+    "d": 2000,
+    "prawidlowaOdpowiedz": "b"
+  }
+]
