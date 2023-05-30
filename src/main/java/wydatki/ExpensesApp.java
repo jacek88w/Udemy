@@ -15,9 +15,7 @@ public class ExpensesApp {
 
             int choice = Integer.parseInt(scanner.nextLine());
 
-            switch (choice) {
-                case 1 ->
-            }
+            
         }
     }
 }
