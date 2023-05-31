@@ -6,6 +6,11 @@ class Zad4 {
 
         Quiz quiz = new Quiz("target/classes/quiz.json");
         quiz.play();
+
+
+
+
+        
     }
 
 }
